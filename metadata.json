@@ -1,0 +1,8 @@
+{
+  "name": "ProteinX",
+  "description": "Comprehensive protein structure and sequence intelligence studio featuring interactive 3D molecular visualization, PDB explorer, biochemical analysis, Ramachandran plots, and pairwise sequence alignment.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
